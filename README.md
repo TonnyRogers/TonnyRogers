@@ -14,6 +14,8 @@ Here's my social media if you like to contact me 📫
 
 - LinkedIn: https://www.linkedin.com/in/antoniel-amaral-1086a014b/
 
+![open-peeps](https://user-images.githubusercontent.com/37991230/89344431-416a5d80-d67c-11ea-9d79-afcd9ed10e08.png)
+
 *"life is good !" 😄*
 
 
