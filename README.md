@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-💬 I'm a Brazilian developer that loves to learn more about new tecnology and all things relacted with this...
+💬 I'm a Brazilian developer since 2014 that loves to learn more about new tecnology and all things relacted with this...
 
 I'm currently learning more about **Flutter** in mobile development and working with Javascript ecosystem 
 (ReactJS, React Native, NodeJS) in my profissional carrer.
