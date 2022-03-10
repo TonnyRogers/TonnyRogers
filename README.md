@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TonnyRogers&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TonnyRogers&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 💬 I'm a Brazilian developer since 2014 that loves to learn more about new tecnology and all things relacted...
 
 I'm currently learning more about **Flutter** in mobile development and working with Javascript ecosystem 
