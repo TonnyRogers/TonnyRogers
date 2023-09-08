@@ -22,10 +22,7 @@ Here's my social media if you like to contact me 📫
 
 *"life is good !" 😄*
 
-![open-peepsaa](https://mars.nasa.gov/layout/embed/send-your-name/future/certificate/?cn=299242425432)
-
-
-
+[![Top Langs]((https://mars.nasa.gov/layout/embed/send-your-name/future/certificate/?cn=299242425432))]
 
 <!--
 **TonnyRogers/TonnyRogers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
