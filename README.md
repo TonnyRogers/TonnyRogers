@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 💬 I'm a Brazilian developer since 2014 that loves to learn more about new tecnology and all things relacted...
 
-I'm currently learning more about **React Native** in mobile development and working with Javascript ecosystem 
+I am focused on my MBA degree in Full Cycle Architecture, learning more about to create and lead great enterprise systems and working with Javascript ecosystem 
 (ReactJS, React Native, NodeJS) in my profissional carrer.
 
 My spare time is dedicate to my own personal projects to improove my knolage and i make some radical things
