@@ -20,19 +20,17 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Antoniel Amaral</h1>
-<h3 align="center">A passionate developer from Brazil</h3>
+<h3 align="center">A curious developer from Brazil</h3>
 
-💬 I'm a Brazilian developer since 2014 that loves to learn more about new tecnology and all things relacted...
+💬 I'm a Brazilian developer since 2014 who loves to learn more about new technology and all things related...
 
-I am focused on my MBA degree in Full Cycle Architecture, learning more about to create and lead great enterprise systems and working with Javascript ecosystem 
-(ReactJS, React Native, NodeJS) in my profissional carrer.
+I am focused on my MBA degree in Full Cycle Architecture, learning more about how to create and lead great enterprise systems and working with the JavaScript ecosystem (ReactJS, React Native, Node.js) in my professional career.
 
-My spare time is dedicate to my own personal projects to improove my knolage and i make some radical things
-like trekking, camping, sky diving things like that.
+My spare time is dedicated to my own personal projects to improve my knowledge, and I do some radical things like trekking, camping, and skydiving things like that.
 
-I'm open to colaborate in new projects.
+I'm open to collaborating on new projects.
 
-Here's my social media if you like to contact me 📫
+Here's my social media if you'd like to contact me. 📫
 
 - LinkedIn: https://www.linkedin.com/in/antoniel-amaral-1086a014b/
 
